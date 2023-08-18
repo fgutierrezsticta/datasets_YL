@@ -1,2 +1,2 @@
 # datasets YL
-Datasets obtained from Uniprot about Yarrowia lipolytica 
+Datasets obtained from Uniprot about strains of *Yarrowia lipolytica*. 
