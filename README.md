@@ -1,2 +1,3 @@
-# datasets YL
-Datasets obtained from Uniprot about strains of *Yarrowia lipolytica*. 
+# Datasets of *Yarrowia lipolytica*
+
+This repository included datasets and subsets about proteins presented in strains of *Yarrowia lipolytica*.
